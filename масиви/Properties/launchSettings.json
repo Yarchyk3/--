@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "масиви": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
